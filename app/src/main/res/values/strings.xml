@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Just Listen</string>
+    <string name="movie1_song1">Song 1</string>
+    <string name="movie1_song2">Song 2</string>
+    <string name="movie1_song1_play_button">Movie1 Song1 play button</string>
+    <string name="movie1_song2_play_button">Movie1 Song2 play button</string>
+    <string name="movie1_home_button">Movie1 home button</string>
+    <string name="movie1_next_button">Movie1 next button</string>
+    <string name="movie1_apl_button">Movie1 add playlist button</string>
+    <string name="movie1_stop_button">Movie1 stop button</string>
+    <string name="movie1_recent_play_button">Movie1 recent play button</string>
+    <string name="movie1_recent_play_pause_button">Movie1 recent play pause button</string>
+    <string name="recent_play_text_view">Recent Played:</string>
+    <string name="movie_1_screen_description">This Movie1 screen is showing the songs under movie1 which is selected by user through home screen.
+    We can play songs which are stored in internal database which has accessed using Provigen database library.</string>
+    <string name="movie_1_song_1_detail">This song details screen is showing the selected song 1 by the user</string>
+    <string name="movie_1_song_2_detail">This song details screen is showing the selected song 2 by the user</string>
+    <string name="icon_queue_music">Icon queue music</string>
+    <string name="song_1_background">song 1 background</string>
+    <string name="song_1_like">Song 1 like button</string>
+    <string name="play_previous">Previous play button</string>
+    <string name="play_next">Next play button</string>
+    <string name="song_1_dislike">Song 1 dislike button</string>
+    <string name="repeat">Repeat song button</string>
+    <string name="shuffle">Shuffle button</string>
+    <string name="song_2_like">Song 2 like button</string>
+    <string name="song_2_dislike">Song 2 dislike button</string>
+    <string name="home_button">home button</string>
+    <string name="search_button">Search button</string>
+    <string name="playlist_play__button">Playlist play button</string>
+    <string name="new_release_button">New release button</string>
+    <string name="home_screen_detail">Main Activity:This is the Home screen of Just Listen application i.e.main Activity.
+    Through this screen you can choose variety of options to listen Music like your recently played song
+    ,songs from your Playlist,you can also search your favorite song using search and you can also download new released songs.The
+    images will be displayed using Picasso class.</string>
+    <string name="movie_1_image_home">Movie 1 image</string>
+    <string name="movie_2_image_home">Movie 2 image</string>
+    <string name="movie1_text">MOVIE 1</string>
+    <string name="movie2_text">MOVIE 2</string>
+    <string name="artist_text">Name of the Artist</string>
+    <string name="play_arrow_black">Play arrow black</string>
+    <string name="home_screen_recent_play_image">Home screen recent play song image</string>
+    <string name="new_released_screen_details">This New Released songs screen(activity)will help user to download the latest released songs.
+    This can be accomplished here by using WebServiceConnect Networking library as well as Purchased using Android Pay API</string>
+    <string name="search_screen_details">This Search screen(activity)will allow user to search for their favourite songs stored in the
+    device or in external database using Retrofit Networking libraries.</string>
+    <string name="recent_search">Recent Search:</string>
+    <string name="play_list_screen_details">This Playlist screen(activity)will allow user to play curated songs from his  playlist also
+    he can create new playlist from here and will also play his liked songs. </string>
+    <string name="thumbs_up">Thumbs up</string>
+    <string name="last_added">Last added</string>
+    <string name="new_playlist">+ new playlist</string>
+    <string name="all_songs">All songs</string>
+    <string name="play_button_circle_black">Play button circle black</string>
+    <string name="pause_button">Pause button</string>
+    <string name="search_text">search</string>
+    <string name="recent_downloads">Recent downloads:</string>
+    <string name="song_3">Song 3</string>
+    <string name="song_4">Song 4</string>
+    <string name="add_play_list">Add playlist button</string>
+    <string name="download_icon">Download icon</string>
+    <string name="shoping_cart">Shopping cart</string>
+</resources>
